@@ -9,21 +9,21 @@
   },
   "main": "main.js",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "core-js": "^3.6.5",
     "decomment": "^0.9.4",
     "dotenv": "^8.2.0",
     "vue": "^2.6.11",
     "vue-router": "^3.5.1",
-    "vuetify": "^2.4.0"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.5.0",
-    "@vue/cli-plugin-eslint": "^4.5.0",
-    "@vue/cli-plugin-router": "^4.5.12",
-    "@vue/cli-service": "^4.5.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-plugin-router": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "babel-eslint": "^10.1.0",
-    "electron": "^11.0.0",
+    "electron": "^22.3.25",
     "electron-devtools-installer": "^3.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
